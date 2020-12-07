@@ -1,0 +1,6 @@
+/Users/dreamy/Projects/grandCircus_New/12_december/MockAssessment3/Villager/bin/Debug/Villager.exe
+/Users/dreamy/Projects/grandCircus_New/12_december/MockAssessment3/Villager/bin/Debug/Villager.pdb
+/Users/dreamy/Projects/grandCircus_New/12_december/MockAssessment3/Villager/obj/Debug/MockAssessment3.csproj.CoreCompileInputs.cache
+/Users/dreamy/Projects/grandCircus_New/12_december/MockAssessment3/Villager/obj/Debug/Villager.exe
+/Users/dreamy/Projects/grandCircus_New/12_december/MockAssessment3/Villager/obj/Debug/Villager.pdb
+/Users/dreamy/Projects/grandCircus_New/12_december/MockAssessment3/Villager/obj/Debug/MockAssessment3.csprojAssemblyReference.cache

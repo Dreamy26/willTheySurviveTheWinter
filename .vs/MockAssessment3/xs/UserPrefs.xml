@@ -1,0 +1,32 @@
+﻿<Properties StartupConfiguration="{443D320E-9571-4AA4-B133-7416B6BDC3E5}|Default">
+  <MonoDevelop.Ide.ItemProperties.MockAssessment3 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Villager/Villager.cs">
+    <Files>
+      <File FileName="Villager/Program.cs" Line="13" Column="47" />
+      <File FileName="Villager/Villager.cs" Line="10" Column="5" />
+      <File FileName="Villager/Farmer.cs" />
+      <File FileName="Villager/Slacker.cs" />
+      <File FileName="Villager/Town.cs" />
+      <File FileName="Villager/notes.md" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="MockAssessment3" expanded="True">
+            <Node name="MockAssessment3" expanded="True">
+              <Node name="Villager.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|anycpu" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/dreamy/Projects/grandCircus_New/12_december/MockAssessment3/Villager/Town.cs" relfile="Villager/Town.cs" line="43" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
