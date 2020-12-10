@@ -5,7 +5,7 @@ namespace MockAssessment3
 {
     public class Town
     {
-        public List<Villager> Villagers = new List<Villager>();
+        public List<Villager> Villagers { get; set; } = new List<Villager>();
 
         public Town()
         {
